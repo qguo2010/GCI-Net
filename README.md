@@ -1,4 +1,4 @@
-# Effective **G**lobal Context Integration for Lightweight 3D Medical Image Segmentation
+# GCI-Net for Lightweight 3D Medical Image Segmentation
 
 Code for the following paper
 
