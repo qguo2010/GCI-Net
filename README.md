@@ -1,4 +1,4 @@
-# GCI-Net for 3D Medical Image Segmentation
+# GCI-Net for Medical Image Segmentation
 
 Code for the following paper
 
