@@ -1,5 +1,9 @@
 # Effective **G**lobal Context Integration for Lightweight 3D Medical Image Segmentation
 
+Code for the following paper
+
+Q. Qiao, M. Qu, W. Wang, B. Jiang, and Q. Guo, Effective global context integration for lightweight 3D medical image segmentation, *IEEE Transactions on Circuits and Systems for Video Technology*, 2024.
+
 **GCI-Net official repository**
 
 ## 📢 News
