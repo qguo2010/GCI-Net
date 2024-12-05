@@ -4,6 +4,8 @@ Code for the following paper
 
 Q. Qiao, M. Qu, W. Wang, B. Jiang, and Q. Guo, Effective global context integration for lightweight 3D medical image segmentation, *IEEE Transactions on Circuits and Systems for Video Technology*, 2024.
 
+<hr />
+
 **GCI-Net official repository**
 
 ## 📢 News
